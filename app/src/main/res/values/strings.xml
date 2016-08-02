@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Informer</string>
+    <string name="message_is_sent_via_sms_so_make_sure_you_have_sufficient_balance_to_send_an_sms">Message is sent via SMS so make sure you have sufficient balance to send an SMS.</string>
+    <string name="alarm">Alarm</string>
+    <string name="messages">Messages</string>
+    <string name="missed_calls">Missed Calls</string>
+    <string name="smart_informer_let_s_your_caller_know_that_you_are_busy_without_even_you_wanting_to_take_your_phone_out_of_your_pocket">Smart Informer let\'s your caller know that you are busy without even you wanting to take your phone out of your pocket.</string>
+    <string name="turning_alarm_on_will_sound_the_alarm_if_calls_are_repeatedly_missed">Turning Alarm on will sound the alarm if calls are repeatedly missed.</string>
+    <string name="turning_this_on_will_send_a_quick_message_to_the_most_repeatedly_missed_calls">Turning this on will send a quick message to the most repeatedly missed calls.</string>
+</resources>
